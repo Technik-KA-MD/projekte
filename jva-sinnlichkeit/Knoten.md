@@ -16,7 +16,7 @@ kulturanker-11         | off      | on       | off    | yes | fda9:26e:5805:0:32
 kulturanker-12         | off      | on       | off    | yes | fda9:26e:5805:0:32b5:c2ff:fed9:ab64 | Haus 1 EG, nahe Küche
 kulturanker-14         | off      | on       | off    | yes | fda9:26e:5805:0:32b5:c2ff:fed9:9822 | küche (zwischen hof bar und dome)
 kulturanker-15         | off      | on       | off    | yes | fda9:26e:5805:0:32b5:c2ff:fed9:9806 | haus 1, 1. og, über knoten 03
-kulturanker-16         | off      | on       | off    | yes | fda9:26e:5805:0:32b5:c2ff:fed9:acf2 | bar hinten bei makerburg
+kulturanker-16         | off      | on       | off    | yes | fda9:26e:5805:0:32b5:c2ff:fed9:acf2 | DJungle Floor (über Plattenspieler über Tür hinten rechts)
 kulturanker-18         | off      | on       | off    | yes | fda9:26e:5805:0:32b5:c2ff:fed9:9792 | turnhalle bühne
 Kulturanker-19         | off      | on       | off    | yes | fda9:26e:5805:0:32b5:c2ff:fed9:9868 | turnhalle empore
 Kulturanker-20         | off      | on       | off    | yes | fda9:26e:5805:0:32b5:c2ff:fed9:97e0 | patchraum verwaltung haus 1
